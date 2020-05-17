@@ -2,3 +2,5 @@ vic - victoria-metrics-v1.35.5.tar.gz
 vmu - vmutils-v1.35.5.tar.gz
 pro - prometheus-2.18.1.linux-amd64.tar.gz
 ale - lertmanager-0.20.0.linux-amd64.tar.gz
+gra - grafana-6.7.3-1.x86_64.rpm
+ale - alertmanager-0.20.0.linux-amd64.tar.gz
