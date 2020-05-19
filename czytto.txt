@@ -5,3 +5,4 @@ ale - lertmanager-0.20.0.linux-amd64.tar.gz
 gra - grafana-6.7.3-1.x86_64.rpm
 ale - alertmanager-0.20.0.linux-amd64.tar.gz
 sol - ambari-infra-solr-2.6.2.2-1.noarch.rpm.txt
+ran - ranger_2_6_5_1175_1-admin-0.7.0.2.6.5.1175-1.x86_64.rpm
